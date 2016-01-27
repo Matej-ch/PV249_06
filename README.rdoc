@@ -1,0 +1,9 @@
+== README
+
+uco : 374026
+meno: Matej chalachan
+adresa : http://cryptic-sierra-9662.herokuapp.com/
+
+Admin : email -- matejchalachan@gmail.com
+        heslo
+        meno -- matej
